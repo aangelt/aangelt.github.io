@@ -36,7 +36,7 @@ layout: post
 
 2016. “Es la política!: Explicando la recentralización de recursos en contextos económicos divergentes. Los casos de Brasil y Colombia.” Revista d’Estudis Autonòmics i Federals (23): 80-114. 
 
-> 2013. “La descentralización y la deuda en el Brasil contemporáneo.” Ciencia Política, 8 (16): 66-88.  
+2013. “La descentralización y la deuda en el Brasil contemporáneo.” Ciencia Política, 8 (16): 66-88.  
 
 
 ---
