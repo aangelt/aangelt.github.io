@@ -34,7 +34,7 @@ layout: post
 
 > 2017. “NAFTA: The Challenges of an Uncertain Negotiation.” _Chronique des Amériques_, Montréal. 17 (4): 11 pages. October.  
 
-> 2016. “Es la política!: Explicando la recentralización de recursos en contextos económicos divergentes. Los casos de Brasil y Colombia.” R_evista d’Estudis Autonòmics i Federals_ (23): 80-114. 
+> 2016. “Es la política!: Explicando la recentralización de recursos en contextos económicos divergentes. Los casos de Brasil y Colombia.” Revista d’Estudis Autonòmics i Federals_ (23): 80-114. 
 
 > 2013. “La descentralización y la deuda en el Brasil contemporáneo.” _Ciencia Política_, 8 (16): 66-88.
 
@@ -55,5 +55,8 @@ layout: post
 
 ## Policy Publications
 
+> 2023. _Rapport de consultation publique. Ajout d'usages au 1420. boulevard du Mont-Royal_. Montréal : Office de consultation publique de Montréal (co-authored with Danielle Casara, Claudia Atomei, Simon Cloutier-Cyr, Joseph Tchinda-Kenfo)
+
 > 2022. _Rapport de consultation publique. Quartier chinois de Montréal_. Montréal : Office de consultation publique de Montréal (co-authored with Éric Cardinal, Danielle Sauvage, Bruno-Serge Boucher, and Akos Verboczy).
+
 ---
