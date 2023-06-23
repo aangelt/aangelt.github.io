@@ -6,12 +6,12 @@ layout: post
 
 ## Book 
 
-2021. Consolidating Economic Governance in Latin America. Cham: Palgrave Macmillan. 
+> 2021. Consolidating Economic Governance in Latin America. Cham: Palgrave Macmillan. 
 
 
 ## Edited volume 
 
-2021. Governance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson. Cham: Palgrave Macmillan. (co-edited with Michèle Rioux, Marjorie Cohen, and Daniel Drache).
+> 2021. Governance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson. Cham: Palgrave Macmillan. (co-edited with Michèle Rioux, Marjorie Cohen, and Daniel Drache).
 
 
 ## Peer reviwed articles
@@ -29,7 +29,7 @@ layout: post
 
 > 2020. “The Domestic Risk of Chinese Partnerships: Cross-Conditionality and Coalition Building.” _Conjuntura Austral. Journal of the Global South_ 11 (55): 74-86. 
 
-> 2018. "Réformes fiscales et organisations internationales : le cas de la taxe sur la valeur ajoutée" _Émulations. Revue de sciences sociales_ (26): 77-88.  
+> 2018. “Réformes fiscales et organisations internationales : le cas de la taxe sur la valeur ajoutée” _Émulations. Revue de sciences sociales_ (26): 77-88.  
 
 > 2018. “Economic policy change in Argentina, 1976-2009." _Revista Estudios de Políticas Públicas_ 4 (2): 128-144. 
 
