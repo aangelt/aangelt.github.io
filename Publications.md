@@ -16,7 +16,7 @@ layout: post
 
 ## Peer reviwed articles
 
-- 2022. “De la richesse des parlementaires en Amérique latine. Une étude du patrimoine déclaré dans six pays” _Politique & Sociétés_ 41(1) : 141-166. (co-authored with Nordin Lazreg and Denis Saint-Martin)
+2022. “De la richesse des parlementaires en Amérique latine. Une étude du patrimoine déclaré dans six pays” _Politique & Sociétés_ 41(1) : 141-166. (co-authored with Nordin Lazreg and Denis Saint-Martin)
 
 - 2021. “Possibilidades de Renovação do Pacto Federativo Brasileiro: Procurando Além das Dívidas Estaduais.” _Boletim de Análise Político-Institucional_ (30): 69-76.
 
