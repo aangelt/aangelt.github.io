@@ -6,12 +6,12 @@ layout: post
 
 ## Book 
 
-> 2021. Consolidating Economic Governance in Latin America. Cham: Palgrave Macmillan. 
+> 2021. _Consolidating Economic Governance in Latin America_. Cham: Palgrave Macmillan. 
 
 
 ## Edited volume 
 
-> 2021. Governance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson. Cham: Palgrave Macmillan. (co-edited with Michèle Rioux, Marjorie Cohen, and Daniel Drache).
+> 2021. _Governance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson_. Cham: Palgrave Macmillan. (co-edited with Michèle Rioux, Marjorie Cohen, and Daniel Drache).
 
 
 ## Peer reviwed articles
@@ -34,14 +34,14 @@ layout: post
 
 > 2017. “NAFTA: The Challenges of an Uncertain Negotiation.” _Chronique des Amériques_, Montréal. 17 (4): 11 pages. October.  
 
-> 2016. “Es la política!: Explicando la recentralización de recursos en contextos económicos divergentes. Los casos de Brasil y Colombia.” Revista d’Estudis Autonòmics i Federals_ (23): 80-114. 
+> 2016. “Es la política!: Explicando la recentralización de recursos en contextos económicos divergentes. Los casos de Brasil y Colombia.” _Revista d’Estudis Autonòmics i Federals_ (23): 80-114. 
 
 > 2013. “La descentralización y la deuda en el Brasil contemporáneo.” _Ciencia Política_, 8 (16): 66-88.
 
 
 ## Book Chapters
 
-> 2021. “Will North America Survive? Embedded Liberalism in the post-Trump Economic Order.” In G_overnance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson_, edited by Michèle Rioux, Alejandro Angel, Marjorie Cohen, and Daniel Drache, 117-135. Cham: Palgrave Macmillan.
+> 2021. “Will North America Survive? Embedded Liberalism in the post-Trump Economic Order.” In _Governance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson_, edited by Michèle Rioux, Alejandro Angel, Marjorie Cohen, and Daniel Drache, 117-135. Cham: Palgrave Macmillan.
 
 > 2021. “Stephen Clarkson: Political Economist with a Global Vision (1937 – 2016).” In _Governance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson_, edited by Michèle Rioux, Alejandro Angel, Marjorie Cohen, and Daniel Drache, 1-9. Cham: Palgrave Macmillan. (co-authored with Marjorie Cohen, Michèle Rioux, and Daniel Drache).
  
