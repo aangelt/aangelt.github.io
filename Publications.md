@@ -57,8 +57,8 @@ Cohen, Marjorie, Michèle Rioux, Daniel Drache and **Alejandro Angel**. 2021. �
 
 ## Policy Publications
 
-Casara, Danielle, Claudia Atomei, Simon Cloutier-Cyr, Joseph Tchinda-Kenfo, **Alejandro Angel**. 2023. _Rapport de consultation publique. Ajout d'usages au 1420. boulevard du Mont-Royal_. Montréal : Office de consultation publique de Montréal (co-authored with Danielle Casara, Claudia Atomei, Simon Cloutier-Cyr, Joseph Tchinda-Kenfo)
+Casara, Danielle, Claudia Atomei, Simon Cloutier-Cyr, Joseph Tchinda-Kenfo, **Alejandro Angel**. 2023. _Rapport de consultation publique. Ajout d'usages au 1420. boulevard du Mont-Royal_. Montréal : Office de consultation publique de Montréal 
 
-Eric, Cardinal, Danielle Sauvage, Bruno-Serge Boucher, Akos Verboczy, **Alejandro Angel**. 2022. _Rapport de consultation publique. Quartier chinois de Montréal_. Montréal : Office de consultation publique de Montréal (co-authored with Éric Cardinal, Danielle Sauvage, Bruno-Serge Boucher, and Akos Verboczy).
+Eric, Cardinal, Danielle Sauvage, Bruno-Serge Boucher, Akos Verboczy, **Alejandro Angel**. 2022. _Rapport de consultation publique. Quartier chinois de Montréal_. Montréal : Office de consultation publique de Montréal.
 
 ---
