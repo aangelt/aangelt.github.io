@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  "Last five years"
 layout: post
 ---
 
@@ -9,9 +9,14 @@ layout: post
 **Angel, Alejandro**. 2021. _Consolidating Economic Governance in Latin America_. Cham: Palgrave Macmillan. 
 
 
+
+
 ## Edited volume 
 
 **Angel, Alejandro**. 2021. _Governance Dilemmas in Canada, North America, and Beyond. A Tribute to Stephen Clarkson_. Cham: Palgrave Macmillan. (co-edited with Michèle Rioux, Marjorie Cohen, and Daniel Drache).
+
+
+
 
 
 ## Peer reviwed articles
@@ -34,19 +39,6 @@ Lazreg, Nordin, **Alejandro Angel** and Denis Saint-Martin. 2021. "Are they all 
 **Angel, Alejandro**. 2020. “The Domestic Risk of Chinese Partnerships: Cross-Conditionality and Coalition Building.” _Conjuntura Austral. Journal of the Global South_ 11 (55): 74-86.
 
 
-**Angel, Alejandro**. 2018. “Réformes fiscales et organisations internationales : le cas de la taxe sur la valeur ajoutée” _Émulations. Revue de sciences sociales_ (26): 77-88.  
-
-
-**Angel, Alejandro**. “Economic policy change in Argentina, 1976-2009." _Revista Estudios de Políticas Públicas_ 4 (2): 128-144. 
-
-
-**Angel, Alejandro**. 2017. “NAFTA: The Challenges of an Uncertain Negotiation.” _Chronique des Amériques_, Montréal. 17 (4): 11 pages. October.  
-
-
-**Angel, Alejandro**. 2016. “Es la política!: Explicando la recentralización de recursos en contextos económicos divergentes. Los casos de Brasil y Colombia.” _Revista d’Estudis Autonòmics i Federals_ (23): 80-114. 
-
-
-**Angel, Alejandro**. 2013. “La descentralización y la deuda en el Brasil contemporáneo.” _Ciencia Política_, 8 (16): 66-88.
 
 
 ## Book Chapters
@@ -60,9 +52,7 @@ Cohen, Marjorie, Michèle Rioux, Daniel Drache and **Alejandro Angel**. 2021. �
 **Angel, Alejandro**. 2021. “Paciência Estoica: Respostas Canadenses à Administração Trump.” In _A Economia Política do Governo Trump_, edited by Neusa Bojikian and Henrique Menezes, 17-38. Curitiba: Editora Appris
 
 
-## By invitation
 
-**Angel, Alejandro**. 2018. “De lo Local a lo Global: Las Elecciones de 2018 y la Renegociación del NAFTA.” _Puentes_ 19 (1): 20-22. (Portuguese version: 2018. “Do local ao global: as eleições de 2018 e a renegociação do NAFTA”. _Pontes_ 14 (2): 20-22.)
 
 
 ## Policy Publications
